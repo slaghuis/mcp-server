@@ -141,3 +141,4 @@ This is the key to actually realizing the cost savings — the tool must be the 
  - **Debugging** — set MCP_DEBUG=1 to tee stderr to a file: ~/.local/bin/mcp-code ... 2>>~/mcp-code.log.
  - **Hot-reload** — restart agents to pick up server rebuilds. Not a daemon.
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/slaghuis-mcp-server-1me0f7?v=ffab667a0140dc8d961ab400d33abf9a)](https://m8ven.ai/mcp/slaghuis-mcp-server-1me0f7?s=readme)
